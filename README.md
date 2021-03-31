@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 ![Build Status](https://travis-ci.org/linagora/dind.svg?branch=master)
 
 # linagora/dind
